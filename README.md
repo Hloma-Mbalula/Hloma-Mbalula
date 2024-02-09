@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hloma-Mbalula
 - Software Engineering
 - HTML, CSS and Javascript.
-- Reach at hlomambalula88@gmail.com
+- Reach me at hlomambalula88@gmail.com
 
 
 <!---
